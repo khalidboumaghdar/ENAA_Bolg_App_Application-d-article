@@ -1,0 +1,17 @@
+body {
+    background-color: #e3f2fd;
+}
+.custom-icon-circle {
+    background-color: #1976d2;
+}
+.custom-form-container {
+    background-color: #f5f5f5;
+}
+.custom-btn {
+    background-color: #26a69a;
+    border-color: #26a69a;
+}
+.custom-btn:hover {
+    background-color: #1e8e83;
+    border-color: #1e8e83;
+}
