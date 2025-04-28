@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": "5b28",
+      "title": "test4",
+      "content": "test4\n"
+    },
+    {
+      "id": "d160",
+      "title": "test87",
+      "content": "test87"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "postId": 1,
+      "text": "Super article !"
+    },
+    {
+      "id": "2",
+      "postId": 2,
+      "text": "Bien écrit !"
+    }
+  ]
+}
